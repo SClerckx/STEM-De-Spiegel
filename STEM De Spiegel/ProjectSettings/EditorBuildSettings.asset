@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hoofdmenu.unity
+    guid: b3956c71381341c4f9b68d17521ed321
+  - enabled: 1
+    path: Assets/Scenes/Race/SpelerSelectie.unity
+    guid: a36a8b2fa73e39442b33c21a5fae88e8
+  - enabled: 1
+    path: Assets/Scenes/Race/KaartSelectie.unity
+    guid: bac4690bad5c44d449ce149c18f33ef2
+  - enabled: 1
+    path: Assets/Scenes/CommTestLevel.unity
+    guid: 599b60125fe6f154a8dc8c2c03ae4ae9
+  - enabled: 1
+    path: Assets/Scenes/Training/TrainingSelector.unity
+    guid: 7721e54806e9dc94a9898a12b0a0deaf
+  - enabled: 1
+    path: Assets/Scenes/Training/Training.unity
+    guid: 6012c7fa7a313604ba0c0b3ba9d3e63f
+  - enabled: 1
+    path: Assets/Scenes/Scorebord/Scorebord.unity
+    guid: f78a8c9337e531a48908a26441fa4323
+  - enabled: 1
+    path: Assets/Scenes/Instellingen/instellingen.unity
+    guid: bc6790f3bf6f17b4da283a8abf007a36
+  - enabled: 1
+    path: Assets/Scenes/Training/TrainingDev.unity
+    guid: 514fde62b2e8b1f4797badfc68c1359b
+  - enabled: 1
+    path: Assets/Scenes/Race/RaceTest.unity
+    guid: 854334de0c473ee4692dec9baedadc47
+  - enabled: 1
+    path: Assets/Scenes/Race/RaceResults.unity
+    guid: e1d9c4821eb05424e9bc563156996149
+  - enabled: 1
+    path: Assets/Scenes/Race/Race3D.unity
+    guid: a45edd0fd23dec04c8b1865b21dc8172
+  m_configObjects: {}
